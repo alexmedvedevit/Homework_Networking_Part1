@@ -1,0 +1,13 @@
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\bin\Debug\netcoreapp3.1\Networks_Practic1.exe
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\bin\Debug\netcoreapp3.1\Networks_Practic1.deps.json
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\bin\Debug\netcoreapp3.1\Networks_Practic1.runtimeconfig.json
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\bin\Debug\netcoreapp3.1\Networks_Practic1.runtimeconfig.dev.json
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\bin\Debug\netcoreapp3.1\Networks_Practic1.dll
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\bin\Debug\netcoreapp3.1\Networks_Practic1.pdb
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\obj\Debug\netcoreapp3.1\Networks_Practic1.csprojAssemblyReference.cache
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\obj\Debug\netcoreapp3.1\Networks_Practic1.csproj.CoreCompileInputs.cache
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\obj\Debug\netcoreapp3.1\Networks_Practic1.AssemblyInfoInputs.cache
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\obj\Debug\netcoreapp3.1\Networks_Practic1.AssemblyInfo.cs
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\obj\Debug\netcoreapp3.1\Networks_Practic1.dll
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\obj\Debug\netcoreapp3.1\Networks_Practic1.pdb
+D:\Универ\УВП-311\2 семестр\Сети\Networks_Practic1\obj\Debug\netcoreapp3.1\Networks_Practic1.genruntimeconfig.cache
